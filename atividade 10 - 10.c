@@ -7,9 +7,9 @@ int main (){
 	int valorNovo;
 		 
 	printf ("Digite primeiro numero: \n ");
-	scanf ("%i \n ", &valor);
+	scanf ("%i", &valor);
 	printf ("Digite segundo numero: \n ");
-	scanf ("%i \n ", &valor1);
+	scanf ("%i", &valor1);
 	
     printf(" Primeiro Numero digitado : %i\n", valor);
     printf("Segundo Numero digitad0 : %i\n", valor1);
